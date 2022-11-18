@@ -1,0 +1,111 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\eduar\\Documents\\Cursos\\Blockchain\\Capture the Ether\\With Hardhat\\contracts\\GuessTheNewNumber.sol": {
+      "lastModificationDate": 1660591017469,
+      "contentHash": "f875991a14a5d5d64c86e67c98f63f60",
+      "sourceName": "contracts/GuessTheNewNumber.sol",
+      "solcConfig": {
+        "version": "0.4.21",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.21"
+      ],
+      "artifacts": [
+        "GuessTheNewNumberChallenge"
+      ]
+    },
+    "C:\\Users\\eduar\\Documents\\Cursos\\Blockchain\\Capture the Ether\\With Hardhat\\contracts\\GuessTheRandomNumber.sol": {
+      "lastModificationDate": 1660571290973,
+      "contentHash": "a67244dc082d8e6c8bff9d39217c8025",
+      "sourceName": "contracts/GuessTheRandomNumber.sol",
+      "solcConfig": {
+        "version": "0.4.21",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.21"
+      ],
+      "artifacts": [
+        "GuessTheRandomNumberChallenge"
+      ]
+    },
+    "C:\\Users\\eduar\\Documents\\Cursos\\Blockchain\\Capture the Ether\\With Hardhat\\contracts\\GuessTheNewNumberExploit.sol": {
+      "lastModificationDate": 1660588407896,
+      "contentHash": "52c26fb297c47c566ec6fc6ae99d9bba",
+      "sourceName": "contracts/GuessTheNewNumberExploit.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "GuessExploit",
+        "IGuessTheNewNumber"
+      ]
+    }
+  }
+}
